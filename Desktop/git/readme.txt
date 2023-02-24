@@ -1,1 +1,0 @@
-Mi primer repositorio Sergio Medina Práctica de Entornos de desarrollo.
